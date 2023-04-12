@@ -9,7 +9,14 @@ This repository provides two Bash scripts to help developers manage permissions 
 
 - Bash (available on Linux and macOS by default, or you can use Git Bash on Windows)
 
-## Usage
+## Setting up the scripts
+
+Before you can run the scripts, you need to make them executable. To do this, use the `chmod` command:
+
+```bash
+chmod +x find_permissions.sh
+chmod +x check_missing_permissions.sh
+```
 
 ### find_permissions.sh
 
