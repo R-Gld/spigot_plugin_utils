@@ -56,6 +56,6 @@ Then, run the `check_missing_permissions.sh` script to compare the found permiss
 ```
 The script will output a list of missing permissions that you may need to add to your plugin.yml file.
 
-##Contributing
+## Contributing
 
 If you'd like to contribute, please feel free to submit a pull request or open an issue to discuss any proposed changes or improvements.
